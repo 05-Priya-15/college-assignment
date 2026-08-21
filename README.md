@@ -1,1 +1,1 @@
-# richa-college-assignment
+# college-assignment
